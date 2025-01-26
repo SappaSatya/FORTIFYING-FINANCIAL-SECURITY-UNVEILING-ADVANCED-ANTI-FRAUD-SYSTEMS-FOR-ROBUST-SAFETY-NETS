@@ -85,11 +85,8 @@ The Random Forest algorithm demonstrated high accuracy in detecting fraudulent t
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with detailed documentation of changes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For questions or collaborations, please contact:
-- **Author**: [Your Name]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Author**: SATYAHARSHA SAPPA 
+- **Email**: sappasatyaharsha@gmail.com
+- **LinkedIn**: sappa satyaharsha
